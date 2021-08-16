@@ -1,0 +1,32 @@
+body {
+  background-color: azure;
+  box-sizing: border-box;
+  margin: 0;
+  text-align: center;
+}
+
+header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+main ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#education {
+  margin-bottom: 10px;
+}
+
+#employment ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#employment .second {
+  margin-top: 10px;
+}
